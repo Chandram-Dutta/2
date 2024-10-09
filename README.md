@@ -1,3 +1,3 @@
 # Slox
 
-- [Lox](https://craftinginterpreters.com) Implementation in Swift
+- [Lox](https://craftinginterpreters.com) Tree-Walk Interpreter Implementation in Swift
